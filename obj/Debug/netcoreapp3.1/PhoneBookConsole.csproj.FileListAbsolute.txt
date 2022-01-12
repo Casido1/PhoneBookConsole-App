@@ -1,0 +1,14 @@
+C:\Users\Casido\source\repos\PhoneBookConsole\bin\Debug\netcoreapp3.1\PhoneBookConsole.exe
+C:\Users\Casido\source\repos\PhoneBookConsole\bin\Debug\netcoreapp3.1\PhoneBookConsole.deps.json
+C:\Users\Casido\source\repos\PhoneBookConsole\bin\Debug\netcoreapp3.1\PhoneBookConsole.runtimeconfig.json
+C:\Users\Casido\source\repos\PhoneBookConsole\bin\Debug\netcoreapp3.1\PhoneBookConsole.runtimeconfig.dev.json
+C:\Users\Casido\source\repos\PhoneBookConsole\bin\Debug\netcoreapp3.1\PhoneBookConsole.dll
+C:\Users\Casido\source\repos\PhoneBookConsole\bin\Debug\netcoreapp3.1\PhoneBookConsole.pdb
+C:\Users\Casido\source\repos\PhoneBookConsole\obj\Debug\netcoreapp3.1\PhoneBookConsole.csproj.AssemblyReference.cache
+C:\Users\Casido\source\repos\PhoneBookConsole\obj\Debug\netcoreapp3.1\PhoneBookConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Casido\source\repos\PhoneBookConsole\obj\Debug\netcoreapp3.1\PhoneBookConsole.AssemblyInfoInputs.cache
+C:\Users\Casido\source\repos\PhoneBookConsole\obj\Debug\netcoreapp3.1\PhoneBookConsole.AssemblyInfo.cs
+C:\Users\Casido\source\repos\PhoneBookConsole\obj\Debug\netcoreapp3.1\PhoneBookConsole.csproj.CoreCompileInputs.cache
+C:\Users\Casido\source\repos\PhoneBookConsole\obj\Debug\netcoreapp3.1\PhoneBookConsole.dll
+C:\Users\Casido\source\repos\PhoneBookConsole\obj\Debug\netcoreapp3.1\PhoneBookConsole.pdb
+C:\Users\Casido\source\repos\PhoneBookConsole\obj\Debug\netcoreapp3.1\PhoneBookConsole.genruntimeconfig.cache
